@@ -40,8 +40,11 @@ GEM
       tzinfo (~> 1.1)
     arel (7.1.1)
     builder (3.2.2)
-    byebug (9.0.5)
+<<<<<<< HEAD
     coderay (1.1.1)
+=======
+    byebug (9.0.5)
+>>>>>>> 35d553c99cca110cf4a540bdaf6f93e5536bcf01
     coffee-rails (4.2.1)
       coffee-script (>= 2.2.0)
       railties (>= 4.0.0, < 5.2.x)
